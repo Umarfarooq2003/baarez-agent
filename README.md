@@ -29,8 +29,8 @@ npm start
 ➕ "what is 10 plus 5" 
 ❓ "What is my cat's name?"
 🎤 Click mic button!
-👩‍🦰 "Remember my HR name is Deepika"
-❓ "What is my HR name?"
+👩‍🦰 "Remember my name is umarfarooq"
+❓ "What is my name?"
 ```
 
 **DONE! Chat works instantly!** 🎉
